@@ -1,4 +1,4 @@
-package com.github.trickster88.treeparser;
+package com.github.tr1cks.treeparser;
 
 import javax.annotation.concurrent.ThreadSafe;
 import java.util.Scanner;
